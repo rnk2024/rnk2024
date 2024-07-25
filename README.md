@@ -40,6 +40,7 @@ If you want to talk more about Recruitment (OR) Lead Generation by Growth Hackin
 - **Cross-Domain Recruitment**: Experience in managing recruitment across various domains and industries.
 - **Candidate Screening**: Skilled in screening candidates to ensure a perfect fit for the role.
 - **Interviewing**: Conducting effective and efficient interviews to assess candidate suitability.
+
 SKILLS (STRONG ON RECRUITMENT IT TECHNOLOGIES)
 
 Web Technologies: Java, J2EE, J2ME JSP, JSF, EJB, Struts, springs, JSP, Servlets, Swings, Hibernate, OOAD, Web logic, Websphere, Webservices
@@ -62,7 +63,8 @@ QUALITY: Six Sigma, CMMI Level, SEI CMMI, ISO, Black Belt, Green Belt, ITIL, RUP
 
 ## Projects
 
-StartuphirePro 								Mar 2022 to Oct 2023
+StartuphirePro 	
+Mar 2022 to Oct 2023
 Global Account Manager (Global Recruitment)
 •	Handling end-to-end recruitment for Client
 •	Leading team members and taking care of the accountability for different groups assigned
@@ -74,7 +76,8 @@ Administer all candidate on-boarding including drug screens, background checks, 
 •	Working out a Methodology to take care with the Business Plan of the Company.
 •	Market research/analysis of competitors and prospective clients.
 
-AndorTech Pvt Ltd 							Sep 2018 to Feb 2022
+AndorTech Pvt Ltd 							
+Sep 2018 to Feb 2022
 Recruitment Manager
 •	Handling end-to-end recruitment for Client and taking care recruit for SOW projects
 •	Leading team members and taking care of the accountability for different groups assigned
@@ -86,7 +89,8 @@ Administer all candidate on-boarding including drug screens, background checks, 
 •	Working out a Methodology to take care with the Business Plan of the Company.
 •	Market research/analysis of competitors and prospective clients.
 
-Capgemini – (Payroll of Connecting Space)                                                      Aug 2015 TO Sep 2018	 
+Capgemini – (Payroll of Connecting Space)                                                      
+Aug 2015 TO Sep 2018	 
 Process Lead /Senior Recruitment Consultant 
 •	Leadership Hiring for SAP, Oracle App Service Line, and Integration service line 
 •	Requirement gathering and creation of Job description in Taleo
@@ -98,7 +102,8 @@ Process Lead /Senior Recruitment Consultant
 •	Prescreen, negotiate offers/rates and perform reference checks to ensure right fit prior 
 •	Negotiate offers and close hires.
 
-Datamatics Software Services Pvt LTD Bangalore                                           Nov 2014 TO FEB 2015
+Datamatics Software Services Pvt LTD Bangalore                                           
+Nov 2014 TO FEB 2015
 Associate Manager
 •	Leading team of 7 members of recruiters and Taking care of the accountability of client 
 Sapient and various clients on timely bases 
@@ -110,7 +115,8 @@ Sapient and various clients on timely bases
 •	Salary negotiation & issuing offer letter to the candidates according to company & candidates’ suitability. 
 
                                                               
-Scarlet Wireless Pvt LTD (formally -Adea) Bangalore.                             SEP 2006 TO OCT 2014
+Scarlet Wireless Pvt LTD (formally -Adea) Bangalore.                             
+SEP 2006 TO OCT 2014
 Associate Manager (Resource Manager) /Team Lead 
 •	Sourcing of resume, interviewing, salary negotiation for lower level to executive level candidates
 •	Strong knowledge of sourcing techniques including Internet recruiting, direct sourcing, networking, proprietary targeted search, candidate-to-client matching using web search tools 
@@ -164,15 +170,11 @@ Recognized as the Best Analyst for this tenure and received an Award
 Recognized as the Best Customer for some of the clients 
 
 
-![Projects](https://via.placeholder.com/600x300.png?text=My+Projects)
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/nagarajhk)
 - [Twitter](https://x.com/nkallur12)
 - [Email](mailto:nkallur12@gmail.com)
-
-![Contact Me](https://via.placeholder.com/600x200.png?text=Connect+with+Me)
 
 ## GitHub Stats
 
